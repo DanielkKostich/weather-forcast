@@ -1,6 +1,6 @@
 var apiKey = '96229522a112929bafe99d9c89d7d638'
 
-async function getForcast(){
+async function getForecast(){
    
   
   var city = document.querySelector('#dataList').value
@@ -17,8 +17,9 @@ async function getForcast(){
           fetch(api)
           .then((response) => response.json())
           .then((forecast) => {
-            console.log(forecast);
-            // process the forecast data and update the UI
+            const info = document.getElementById('apiResponse');
+            info.innerHTML = forecast;
+            console.log(forecast)
           })
           .catch((error) => console.log('Error: Could not get weather forecast from API'));
       } else {
