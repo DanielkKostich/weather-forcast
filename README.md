@@ -1,8 +1,3 @@
-# hwefhwefihwefoihgewfuig <br>
-## ewhfhweuhewuigf<br>
-## Installation <br>fewhyfehgfhuwefhgwieufygefweqfghewiuf<br>
-## Usage
-<br>fefewuygfewyugewgfewqgewgewd7gewp87gf<br> 
-## Contributing 
-<br>efwyuwefgyewgf87weteigwefep87gtewf<br> ## Credits
-<br>owq\t7gewqf7<br>### <br>This project is released under the GPL-3.0 license.https://www.gnu.org/licenses/gpl-3.0, https://img.shields.io/badge/License-GPLv3-blue.svg
+# weather-forcast
+
+## I started building this weather app so I could search the weather for a given city. so that i could see the current weather and expected weather. I have found this app to be challenging because this is my first attempt at working with an API. This app is close to being finished. I am moving on for now but will certainly circled back to this app to put the final touches on it.
